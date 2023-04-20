@@ -1,0 +1,11 @@
+Plotted to '/Users/Bucket/Desktop/Embedded Systems/Phase B/KiCad Files/Phase B - PCB-F_Cu.gbr'.
+Plotted to '/Users/Bucket/Desktop/Embedded Systems/Phase B/KiCad Files/Phase B - PCB-B_Cu.gbr'.
+Plotted to '/Users/Bucket/Desktop/Embedded Systems/Phase B/KiCad Files/Phase B - PCB-F_Paste.gbr'.
+Plotted to '/Users/Bucket/Desktop/Embedded Systems/Phase B/KiCad Files/Phase B - PCB-B_Paste.gbr'.
+Plotted to '/Users/Bucket/Desktop/Embedded Systems/Phase B/KiCad Files/Phase B - PCB-F_Silkscreen.gbr'.
+Plotted to '/Users/Bucket/Desktop/Embedded Systems/Phase B/KiCad Files/Phase B - PCB-B_Silkscreen.gbr'.
+Plotted to '/Users/Bucket/Desktop/Embedded Systems/Phase B/KiCad Files/Phase B - PCB-F_Mask.gbr'.
+Plotted to '/Users/Bucket/Desktop/Embedded Systems/Phase B/KiCad Files/Phase B - PCB-B_Mask.gbr'.
+Plotted to '/Users/Bucket/Desktop/Embedded Systems/Phase B/KiCad Files/Phase B - PCB-Edge_Cuts.gbr'.
+Created Gerber job file '/Users/Bucket/Desktop/Embedded Systems/Phase B/KiCad Files/Phase B - PCB-job.gbrjob'.
+Info: Done.
