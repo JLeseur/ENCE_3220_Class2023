@@ -1,0 +1,12 @@
+Info: Output directory '/Users/bucket/Desktop/Embedded Systems/Phase D/PCB_Design/KiCad Files/Phase D PCB/gerber' created.
+Plotted to '/Users/bucket/Desktop/Embedded Systems/Phase D/PCB_Design/KiCad Files/Phase D PCB/gerber/Phase D PCB-F_Cu.gbr'.
+Plotted to '/Users/bucket/Desktop/Embedded Systems/Phase D/PCB_Design/KiCad Files/Phase D PCB/gerber/Phase D PCB-B_Cu.gbr'.
+Plotted to '/Users/bucket/Desktop/Embedded Systems/Phase D/PCB_Design/KiCad Files/Phase D PCB/gerber/Phase D PCB-F_Paste.gbr'.
+Plotted to '/Users/bucket/Desktop/Embedded Systems/Phase D/PCB_Design/KiCad Files/Phase D PCB/gerber/Phase D PCB-B_Paste.gbr'.
+Plotted to '/Users/bucket/Desktop/Embedded Systems/Phase D/PCB_Design/KiCad Files/Phase D PCB/gerber/Phase D PCB-F_Silkscreen.gbr'.
+Plotted to '/Users/bucket/Desktop/Embedded Systems/Phase D/PCB_Design/KiCad Files/Phase D PCB/gerber/Phase D PCB-B_Silkscreen.gbr'.
+Plotted to '/Users/bucket/Desktop/Embedded Systems/Phase D/PCB_Design/KiCad Files/Phase D PCB/gerber/Phase D PCB-F_Mask.gbr'.
+Plotted to '/Users/bucket/Desktop/Embedded Systems/Phase D/PCB_Design/KiCad Files/Phase D PCB/gerber/Phase D PCB-B_Mask.gbr'.
+Plotted to '/Users/bucket/Desktop/Embedded Systems/Phase D/PCB_Design/KiCad Files/Phase D PCB/gerber/Phase D PCB-Edge_Cuts.gbr'.
+Created Gerber job file '/Users/bucket/Desktop/Embedded Systems/Phase D/PCB_Design/KiCad Files/Phase D PCB/gerber/Phase D PCB-job.gbrjob'.
+Info: Done.
